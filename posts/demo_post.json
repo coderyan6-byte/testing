@@ -1,0 +1,9 @@
+{
+  "id": "demo_post",
+  "type": "text",
+  "author": "miniadmin",
+  "title": "What MiniVideo can do",
+  "content": "MiniVideo stores users, videos, and posts in your GitHub repo. Upload small mp4 files (≤16MB), make text posts, follow people, like, and get recommendations if you allow history tracking.",
+  "likes": 0,
+  "timestamp": "2025-09-24T05:03:35.281Z"
+}
