@@ -1,0 +1,12 @@
+{
+  "id": "demo",
+  "title": "Welcome to MiniVideo (Demo)",
+  "description": "MiniVideo demo: upload videos (≤16MB, up to 3 per user), text posts, follow, like, and personalized recommendations based on history (toggleable). This demo item is metadata-only and references a public sample video URL.",
+  "uploader": "miniadmin",
+  "uploaderToken": "internal_demo",
+  "videoPath": null,
+  "videoURL": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+  "views": 0,
+  "likes": 0,
+  "createdAt": "2025-09-24T05:03:34.381Z"
+}
